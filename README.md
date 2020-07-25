@@ -3,6 +3,8 @@
 This repo has the notebook submitted for Kaggle Task on the Chai Time Data Science|CTDS show hosted by Sanyam Butani as a part of its 1st Anniversary celebrations .Check out the complete
 rules of the competition [here](https://www.kaggle.com/rohanrao/chai-time-data-science/discussion/156137)
 
+This notebook scored 11th position among 26 participants.
+
 Data Available from [Kaggle](https://www.kaggle.com/rohanrao/chai-time-data-science)
 
 
